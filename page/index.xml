@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on S.x1v4n</title>
+        <link>https://demo.stack.jimmycai.com/page/</link>
+        <description>Recent content in Pages on S.x1v4n</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://demo.stack.jimmycai.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>https://demo.stack.jimmycai.com/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Notes</title>
+        <link>https://demo.stack.jimmycai.com/notes/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/notes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://demo.stack.jimmycai.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Whoami</title>
+        <link>https://demo.stack.jimmycai.com/whoami/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/whoami/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/whoami/avatar.png&#34;
+	width=&#34;400&#34;
+	height=&#34;400&#34;
+	srcset=&#34;https://demo.stack.jimmycai.com/whoami/avatar_hu846d7a7b2433a8fd47426220275978f5_74787_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/whoami/avatar_hu846d7a7b2433a8fd47426220275978f5_74787_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Mi nombre es Iván(aka. S.x1v4n), actualmente estoy estudiando ciberseguridad, me gusta tanto el pentesting como el reversing, este es un blog donde iré subiendo artículos relacionados.&lt;/p&gt;
+&lt;p&gt;My name is Iván, I am currently studying cybersecurity, I like both pentesting and reversing, this is a blog where I will upload related articles.&lt;/p&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;eJPTv2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;developed-tools&#34;&gt;Developed tools&lt;/h2&gt;
+&lt;p&gt;Script en Python que “acelera” el proceso de tener que buscar una reverse shell, teniendo todas en un único binario.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AutoShell&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>WriteUps</title>
+        <link>https://demo.stack.jimmycai.com/writeups/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/writeups/</guid>
+        <description>&lt;h1 id=&#34;hackthebox&#34;&gt;HackTheBox&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Difficult&lt;/th&gt;
+&lt;th&gt;Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Precious&lt;/td&gt;
+&lt;td&gt;Easy&lt;/td&gt;
+&lt;td&gt;Item 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Irked&lt;/td&gt;
+&lt;td&gt;Easy&lt;/td&gt;
+&lt;td&gt;Item 3a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;tryhackme&#34;&gt;TryHackMe&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Difficult&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Brainpain&lt;/td&gt;
+&lt;td&gt;- Hard -&lt;/td&gt;
+&lt;td&gt;Buffer Over Flow&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Item 1a&lt;/td&gt;
+&lt;td&gt;Item 2a&lt;/td&gt;
+&lt;td&gt;Item 3a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

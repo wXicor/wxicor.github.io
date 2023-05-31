@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>S.x1v4n</title>
+        <link>https://demo.stack.jimmycai.com/</link>
+        <description>Recent content on S.x1v4n</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>eJPTv2 Review</title>
+        <link>https://demo.stack.jimmycai.com/p/ejptv2-review/</link>
+        <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/p/ejptv2-review/</guid>
+        <description>&lt;img src="https://demo.stack.jimmycai.com/p/ejptv2-review/ejptv2.jpg" alt="Featured image of post eJPTv2 Review" /&gt;&lt;p&gt;¡Hola a todos!, hace una semana hice el examen de eLearnSecurity y vengo a contaros mi experiencia en cuanto a dificultad y contenidos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/p/ejptv2-review/cert-ejptv2.png&#34;
+	width=&#34;987&#34;
+	height=&#34;716&#34;
+	srcset=&#34;https://demo.stack.jimmycai.com/p/ejptv2-review/cert-ejptv2_hu3006606a48eeab995188de7e8de9e544_283217_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/ejptv2-review/cert-ejptv2_hu3006606a48eeab995188de7e8de9e544_283217_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Experiencia eJPTv2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vale-la-pena&#34;&gt;¿Vale la pena?&lt;/h2&gt;
+&lt;p&gt;Si estás iniciándote el mundo del pentesting como yo, te diría que si, a mi me ha servido mucho, porque al ser el primer examen al que me presento iba con miedo debido a qué no sabia a que me enfrentaba y así ya me puedo ir haciendo una idea.
+Yo no hice el curso de INE, tengo hecha una considerable batería de máquinas de TryHackMe y HackTheBox , además de estar cursando un Bootcamp que me ha permitido adquirir los conocimientos correspondientes de redes, Linux y Windows.
+Por este motivo yo recomendaría hacer el curso para poder realizar el examen con éxito, ya que se dan temas importantes para dicha prueba, aunque para acelerar el proceso puedes omitir los módulos de programación, puesto que el examen no se centra demasiado en esa parte.&lt;/p&gt;
+&lt;h2 id=&#34;cómo-definirías-su-dificultad&#34;&gt;¿Cómo definirías su dificultad?&lt;/h2&gt;
+&lt;p&gt;En mi opinión el examen me ha resultado fácil, pero hay que tener muy en cuenta la organización y saber enumerar muy bien, te puedes abrumar si no llevas una organización correcta.
+El examen tiene una duración de 48 horas y tienes tiempo de sobra para hacerle, por lo tanto no hay prisa , debes ir con calma y apuntando todo lo que ves, eso es lo más importante.
+El examen es en un navegador sin conexión, por lo tanto no puedes instalar herramientas.&lt;/p&gt;
+&lt;h2 id=&#34;qué-repasar-para-ese-momento&#34;&gt;¿Qué repasar para ese momento?&lt;/h2&gt;
+&lt;p&gt;Los temas que puedes abarcar son los siguientes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IP route (con metasploit también)&lt;/li&gt;
+&lt;li&gt;Wireshark&lt;/li&gt;
+&lt;li&gt;Host Discovery&lt;/li&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;Fuerza bruta&lt;/li&gt;
+&lt;li&gt;Explotación Básica&lt;/li&gt;
+&lt;li&gt;SQLi&lt;/li&gt;
+&lt;li&gt;XSS&lt;/li&gt;
+&lt;li&gt;Burpsuite&lt;/li&gt;
+&lt;li&gt;Metasploit&lt;/li&gt;
+&lt;li&gt;Redes&lt;/li&gt;
+&lt;li&gt;Fundamentos Linux/Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cómo-es-el-examen&#34;&gt;¿Cómo es el examen?&lt;/h2&gt;
+&lt;p&gt;El examen está compuesto por 35 preguntas, 30 de ellas son tipo test, las demás suelen ser preguntas cortas que se responden a medida que se va haciendo el examen.&lt;/p&gt;
+&lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;No es un CTF, a mí me pasó varias veces y pensé en lo difícil, pero es mucho más fácil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Busca siempre dos formas de hacer las cosas para que no se te escape nada.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Se puede usar cualquier herramienta automática, ya que no están prohibidas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;máquinas-que-pueden-ser-útiles-para-practicar&#34;&gt;Máquinas que pueden ser útiles para practicar:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vulnet Internal (THM)&lt;/li&gt;
+&lt;li&gt;Game Zone (THM)&lt;/li&gt;
+&lt;li&gt;ColddBox (THM)&lt;/li&gt;
+&lt;li&gt;Cap (HTB)&lt;/li&gt;
+&lt;li&gt;Validation (HTB)&lt;/li&gt;
+&lt;li&gt;Wekor (Sin escalada) (THM)&lt;/li&gt;
+&lt;li&gt;Blog (THM)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://demo.stack.jimmycai.com/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Notes</title>
+        <link>https://demo.stack.jimmycai.com/notes/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/notes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://demo.stack.jimmycai.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Whoami</title>
+        <link>https://demo.stack.jimmycai.com/whoami/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/whoami/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/whoami/avatar.png&#34;
+	width=&#34;400&#34;
+	height=&#34;400&#34;
+	srcset=&#34;https://demo.stack.jimmycai.com/whoami/avatar_hu846d7a7b2433a8fd47426220275978f5_74787_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/whoami/avatar_hu846d7a7b2433a8fd47426220275978f5_74787_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Mi nombre es Iván(aka. S.x1v4n), actualmente estoy estudiando ciberseguridad, me gusta tanto el pentesting como el reversing, este es un blog donde iré subiendo artículos relacionados.&lt;/p&gt;
+&lt;p&gt;My name is Iván, I am currently studying cybersecurity, I like both pentesting and reversing, this is a blog where I will upload related articles.&lt;/p&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;eJPTv2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;developed-tools&#34;&gt;Developed tools&lt;/h2&gt;
+&lt;p&gt;Script en Python que “acelera” el proceso de tener que buscar una reverse shell, teniendo todas en un único binario.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AutoShell&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>WriteUps</title>
+        <link>https://demo.stack.jimmycai.com/writeups/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/writeups/</guid>
+        <description>&lt;h1 id=&#34;hackthebox&#34;&gt;HackTheBox&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Difficult&lt;/th&gt;
+&lt;th&gt;Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Precious&lt;/td&gt;
+&lt;td&gt;Easy&lt;/td&gt;
+&lt;td&gt;Item 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Irked&lt;/td&gt;
+&lt;td&gt;Easy&lt;/td&gt;
+&lt;td&gt;Item 3a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;tryhackme&#34;&gt;TryHackMe&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Difficult&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Brainpain&lt;/td&gt;
+&lt;td&gt;- Hard -&lt;/td&gt;
+&lt;td&gt;Buffer Over Flow&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Item 1a&lt;/td&gt;
+&lt;td&gt;Item 2a&lt;/td&gt;
+&lt;td&gt;Item 3a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
